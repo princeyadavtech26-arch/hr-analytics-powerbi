@@ -126,6 +126,6 @@ B.Tech CSE | Aspiring Data Analyst
 **Skills:** SQL • Power BI • Excel • Python • MySQL
 
 ## screenshots / Demos
-show what the dashboard looks like. - ![Alt text](https://github.com/princeyadavtech26-arch/hr-analytics-powerbi/blob/main/dashboard.png.)
-Example :![Dashboard Preview](https://github.com/princeyadavtech26-arch/hr-analytics-powerbi/blob/main/dashboard.png.)
+show what the dashboard looks like. - ![Alt text](https://github.com/princeyadavtech26-arch/hr-analytics-powerbi/blob/main/dashboard.png)
+Example :![Dashboard Preview](https://github.com/princeyadavtech26-arch/hr-analytics-powerbi/blob/main/dashboard.png)
 
